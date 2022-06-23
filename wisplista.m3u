@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:50, WIN SPORTS +
-http://181.129.7.139/0.m3u8
+http://186.97.241.85/0.m3u8
 #EXTINF:50, ESPN
-http://181.129.7.139/2.m3u8
+http://186.97.241.85/2.m3u8
 #EXTINF:50, ESPN 2
-http://181.129.7.139/4.m3u8
+http://186.97.241.85/4.m3u8
 #EXTINF:50, ESPN 3
-http://181.129.7.139/6.m3u8
+http://186.97.241.85/6.m3u8
 #EXTINF:50, DIRECTV SPORTS 
-http://181.129.7.139/8.m3u8
+http://186.97.241.85/8.m3u8
 #EXTINF:50, Miami TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w655852267_b1896000.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
