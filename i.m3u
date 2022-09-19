@@ -5,7 +5,7 @@ http://181.205.94.252:50000/0.ts
 #EXTINF:0 tvg-id="ESPN" tvg-logo="https://prnt.sc/1x_f5O007QdQ" tvg-name="ESPN" group-title="DEPORTE", ESPN  
 http://181.205.94.252:50001/0.ts
 
-#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://prnt.sc/mcVSCXh7tF8t" tvg-name="ESPN 2", ESPN 2 group-title="DEPORTE",
+#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://prnt.sc/mcVSCXh7tF8t" tvg-name="ESPN 2" ESPN 2 group-title="DEPORTE",
 http://181.205.94.252:50002/0.ts
 
 #EXTINF:0 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="https://prnt.sc/l6FdvehYmE6B" group-title="DEPORTE", DIRECTV SPORTS
