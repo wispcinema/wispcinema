@@ -2,27 +2,27 @@
 #EXTINF:0 tvg-id="Win Sports +" tvg-logo="http://imgfz.com/i/H37ziVm.png" tvg-name="WIN SPORTS +" group-title="DEPORTE", WIN SPORTS + 
 http://181.205.94.252:50000/0.ts
 
-#EXTINF:0 tvg-id="ESPN" tvg-logo="https://prnt.sc/1x_f5O007QdQ" tvg-name="ESPN" group-title="DEPORTE", ESPN  
+#EXTINF:0 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" tvg-name="ESPN" group-title="DEPORTE", ESPN  
 http://181.205.94.252:50001/0.ts
 
-#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://prnt.sc/mcVSCXh7tF8t" tvg-name="ESPN 2" ESPN 2 group-title="DEPORTE",
+#EXTINF:0 tvg-id="ESPN 2" tvg-logo="https://unity-img.tbxapis.com/v0/images/9d7624f8a31a91dfb23bc737b8e1df58/content/60db41ebe80133d9571ff66c/b093b79020322ea0148d125489a34e48/img.png" tvg-name="ESPN 2" ESPN 2 group-title="DEPORTE", ESPN 2
 http://181.205.94.252:50002/0.ts
 
-#EXTINF:0 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="https://prnt.sc/l6FdvehYmE6B" group-title="DEPORTE", DIRECTV SPORTS
+#EXTINF:0 tvg-id="DIRECTV SPORTS" tvg-name="DIRECTV SPORTS" tvg-logo="https://dtvsportsimages.akamaized.net/site/common/og-banner.png?width=1200&height=630&content-type=png" group-title="DEPORTE", DIRECTV SPORTS
 http://181.205.94.252:50003/0.ts
 
-#EXTINF:0 tvg-id="DIRECTV SPORTS 2" tvg-logo="https://prnt.sc/Enc5Z0CNufbb" tvg-name="DIRECTV SPORTS 2" group-title="DEPORTE", DIRECTV SPORTS 2 
+#EXTINF:0 tvg-id="DIRECTV SPORTS 2" tvg-logo="https://www.pngitem.com/pimgs/m/379-3795145_directv-sports-2-latin-america-directv-sports-2.png" tvg-name="DIRECTV SPORTS 2" group-title="DEPORTE", DIRECTV SPORTS 2 
 http://181.205.94.252:50004/0.ts
 
-#EXTINF:0 tvg-id="CARACOL" tvg-name="CARACOL" tvg-logo="https://prnt.sc/TtFMJ2xNblG8" group-title="COLOMBIA", CARACOL  
+#EXTINF:0 tvg-id="CARACOL" tvg-name="CARACOL" tvg-logo="https://pbs.twimg.com/media/EZv1IliWoAEnzit.jpg" group-title="COLOMBIA", CARACOL  
 http://181.205.94.252:50005/0.ts
 
-#EXTINF:0 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://prnt.sc/Mj1UX6dVb8ae" group-title="COLOMBIA", RCN  
+#EXTINF:0 tvg-id="RCN" tvg-name="RCN" tvg-logo="https://imagenes.canalrcn.com/ImgCanal/logo-autores-2_0_0.png?null" group-title="COLOMBIA", RCN  
 http://181.205.94.252:50006/0.ts
 
-#EXTINF:0 tvg-id="TELEANTIOQUIA"  tvg-logo="https://prnt.sc/-vh-tg1Hd6-w" group-title="COLOMBIA" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA
+#EXTINF:0 tvg-id="TELEANTIOQUIA"  tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/telra.png" group-title="COLOMBIA" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA
 http://181.205.94.252:50007/0.ts
 
-#EXTINF:50, Miami TV
+#EXTINF:50 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/miami-tv.png", Miami TV 
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w655852267_b1896000.m3u8
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
