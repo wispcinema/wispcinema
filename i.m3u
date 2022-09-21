@@ -23,7 +23,7 @@ http://181.205.94.252:50006/0.ts
 #EXTINF:0 tvg-id="TELEANTIOQUIA"  tvg-logo="https://www.tvcanaleshd.com/wp-content/uploads/2018/07/telra.png" group-title="COLOMBIA" tvg-name="TELEANTIOQUIA", TELEANTIOQUIA
 http://181.205.94.252:50007/0.ts
 
-#EXTINF: tvg-id="CityTV" tvg-logo="https://seeklogo.com/images/C/city-tv-logo-93CC13EB21-seeklogo.com.png" group-title="COLOMBIA" tvg-name="City TV", City TV https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
+#EXTINF:0 tvg-id="CityTV" tvg-logo="https://seeklogo.com/images/C/city-tv-logo-93CC13EB21-seeklogo.com.png" group-title="COLOMBIA" tvg-name="City TV", City TV https://citytv.cachefly.net/citytv1/citytv1/chunks.m3u8
 
 #EXTINF:50 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/miami-tv.png", Miami TV 
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w655852267_b1896000.m3u8
